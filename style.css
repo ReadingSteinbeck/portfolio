@@ -1,0 +1,52 @@
+/* classes of the three sections */
+.intro {
+  background: lightblue;
+  padding: 1%;
+}
+.about {
+  background: lightcoral;
+  padding: 1%;
+}
+.contact {
+  background: lightgoldenrodyellow;
+}
+header {
+  background-image: linear-gradient(
+    to right,
+    rgb(241, 142, 216),
+    rgb(74, 158, 214)
+  );
+  border-bottom-right-radius: 15%;
+  border-bottom-left-radius: 15%;
+}
+/* center text */
+html {
+  text-align: center;
+  height: 100%;
+}
+
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 45px;
+}
+.content {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+main {
+  background: rgb(228, 228, 171);
+}
+
+ul,
+ol,
+.foods {
+  text-align: left;
+}
+/* set image width */
+img {
+  width: 35%;
+}
+a {
+  color: rgb(21, 43, 110);
+}
