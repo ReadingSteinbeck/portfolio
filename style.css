@@ -18,6 +18,7 @@ header {
   );
   border-bottom-right-radius: 15%;
   border-bottom-left-radius: 15%;
+  height: 150px;
 }
 /* center text */
 html {
