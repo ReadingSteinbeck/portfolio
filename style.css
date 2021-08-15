@@ -49,5 +49,13 @@ img {
   width: 35%;
 }
 a {
-  color: rgb(21, 43, 110);
+  color: #152b6e;
+  font-size: 20px;
+}
+a:visited {
+  color: brown;
+  font-size: 15px;
+}
+a:hover {
+  font-size: 25px;
 }
